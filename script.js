@@ -105,4 +105,4 @@ form.addEventListener('submit', (e) => {
         search.value = ''
     }
 })
-getUser('sushitrash503');
+getUser('cerrpuffs');
